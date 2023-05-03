@@ -1,0 +1,15 @@
+body{
+  background-color: violet;
+  font-size: x-small;
+}
+
+h1{
+  font-size: 3em;
+}
+
+button{
+  background-color: aqua;
+}
+input{
+  background-color: hotpink;
+}
